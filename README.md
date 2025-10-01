@@ -2,8 +2,9 @@ Hello~
 
 I'm Weiting
 
-# Azure Certifications
+# Certifications
 
+## Azure
 [![Microsoft Certified: Azure Fundamentals](https://images.credly.com/size/100x100/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png)](https://www.credly.com/badges/659b0f25-20f7-476b-8b10-d165f7dcf1ed/public_url)
 [![Microsoft Certified: Security, Compliance, and Identity Fundamentals](https://images.credly.com/size/100x100/images/fc1352af-87fa-4947-ba54-398a0e63322e/security-compliance-and-identity-fundamentals-600x600.png)](https://www.credly.com/badges/4275e3e4-0939-47fd-9a71-538f86888bc1/public_url)
 
@@ -15,6 +16,13 @@ I'm Weiting
 [![Microsoft Certified: DevOps Engineer Expert](https://images.credly.com/size/100x100/images/c3ab66f8-5d59-4afa-a6c2-0ba30a1989ca/CERT-Expert-DevOps-Engineer-600x600.png)](https://www.credly.com/badges/446e3342-c0c2-4d19-ab47-96b35ce720ef/public_url)
 [![Microsoft Certified: Azure Solutions Architect Expert](https://images.credly.com/size/100x100/images/987adb7e-49be-4e24-b67e-55986bd3fe66/azure-solutions-architect-expert-600x600.png)](https://www.credly.com/badges/77204eaa-8792-43ea-ae1f-7618323aaba7/public_url)
 
+## Skill
+
+- <a href="https://bcert.me/sfsyxgzex">
+  <img src="https://bcert.me/bc/html/img/badges/generated/badge-7227.png" width="100" />
+</a>
+
+- [Gemini Certified Educator](https://edu.google.accredible.com/206eaa5b-d1b5-4c39-b010-2818ab0a5515)
 
 # My Code Story
 
